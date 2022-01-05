@@ -36,7 +36,6 @@ The data set contained the following columns:
 ![Kickstarter Dashboard](https://user-images.githubusercontent.com/92667306/140593458-9cff3657-8a6c-4d3f-b2bb-06d63bea764b.jpg)
 
 
-**Please also find the visualization in pdf in the folder.**
 
 
 
